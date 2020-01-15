@@ -7,7 +7,7 @@ class Anagram
     end
    
     def match(string)
-     br
+     binding.pry
     end
   end
   # Your code goes here!
