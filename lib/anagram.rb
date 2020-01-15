@@ -5,5 +5,6 @@ class Anagram
     @name = name
    end
    
-   def match
+   def match(string)
+ 
   end  # Your code goes here!
