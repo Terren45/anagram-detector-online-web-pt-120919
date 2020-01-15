@@ -4,4 +4,6 @@ class Anagram
    def initialize(name)
     @name = name
    end
+   
+   def match
   end  # Your code goes here!
