@@ -6,7 +6,7 @@ class Anagram
      @name = name
     end
    
-    def match(arr)
+    def match(string)
      binding.pry
     end
   end
