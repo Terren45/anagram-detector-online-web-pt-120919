@@ -1,4 +1,4 @@
-require pry
+require 'pry'
 class Anagram
   
    attr_accessor :name
@@ -7,7 +7,7 @@ class Anagram
     end
    
     def match(string)
- 
+     br
     end
   end
   # Your code goes here!
