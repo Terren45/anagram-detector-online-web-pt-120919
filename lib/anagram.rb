@@ -7,7 +7,7 @@ class Anagram
     end
    
     def match(arr)
-     arr.keep_ifbinding.pry
+     arr.keep_if { binding.pry
     end
   end
   # Your code goes here!
