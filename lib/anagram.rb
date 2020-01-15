@@ -1,4 +1,6 @@
 class Anagram
   
-  attr_accessor
-  # Your code goes here!
+   def initialize(name)
+    @name = name
+   end
+    # Your code goes here!
